@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "sample",
+    "owner": "likith"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "j",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
