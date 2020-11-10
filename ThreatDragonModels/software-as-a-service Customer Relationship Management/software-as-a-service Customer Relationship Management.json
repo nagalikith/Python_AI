@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "software-as-a-service Customer Relationship Management",
+    "owner": "PrimeTech",
+    "description": "The system is\nused by clients of PrimeTech to send automated/marketing SMS and emails to their customers."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Likith S"
+  }
+}
